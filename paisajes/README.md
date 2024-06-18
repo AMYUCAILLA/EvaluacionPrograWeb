@@ -92,18 +92,31 @@ paisajes/
 │   ├── index.html
 │   └── ...
 ├── src/
-│   │
-│   │SearchForm.js
-│   │ImageGallery.js
-│   │Cart.js
-│   │
-│   │SearchForm.css
-│   │ImageGallery.css
+│   │App.css
+│   │App.js
+│   │App.test.js
 │   │Cart.css
-│   ├App.js
-│   ├App.css
-│   └npm startindex.js
+│   │Cart.js
+│   │Comment.css
+│   │Comment.js
+│   │ImageGallery.css
+│   │ImageGallery.js
+│   │Index.css
+│   │Index.js
+│   │logo.svg
+│   │reportWebVital.js
+│   │SearchForm.css
+│   │SearchForm.js
+│   │setupTests.js
+│   │Cart.js
+├── .gitignore
+├── Dockerfile
+├── package-lock.json
 ├── package.json
 └── README.md
+
+
+## Link DockerHub proyecto Paisajes:
+https://hub.docker.com/layers/amyucailla/paisajesimgdock/latest/images/sha256-ddcfe4400b640692f52bcfc03fca644292a4fd8250c9a445b089b7f5d1cdbd4e?context=repo
 
 
